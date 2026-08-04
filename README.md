@@ -1,5 +1,4 @@
-# Omni-market
-Full-stack eCommerce web application with secure authentication, product management, and a responsive user interface.
+
 # 🛒 Omni Market
 
 A modern **Full-Stack eCommerce Web Application** built with **React.js, Node.js, Express.js, and MySQL**. Omni Market provides a seamless online shopping experience with secure authentication, dynamic product management, and a responsive user interface.
@@ -96,11 +95,7 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of your application here.
-
----
 
 ## 📚 What I Learned
 
